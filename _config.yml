@@ -1,0 +1,14 @@
+layout_spectrum: 0.5244361
+color:
+  saturation: 0.7960581
+  lightness: 0.01879699
+  brandStrength: 0.4411027
+  brandColors:
+    - '#305C38'
+    - '#FFFFFB'
+    - '#539BF1'
+    - '#863171'
+    - '#99F0AC'
+  rhythmicContrast: 0.687958
+typography_spectrum: 0.5494987
+name: pARCHd Ultimate
